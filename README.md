@@ -1,2 +1,2 @@
 # spider-bot
-Simple Web Crawler
+Simple web crawler in Java using JSoup plugin.
